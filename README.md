@@ -1,0 +1,1 @@
+This was one of my first forrays into programming in R. This project examined how the racial composition of a state influenced rates of hate crimes and racially motivated violence towards minority populations in completion of S&DS 230 at Yale.
